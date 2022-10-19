@@ -4,8 +4,7 @@
 - 👩🏾 Pronomes: Ela/Dela
 - 🔭 Hobbies: Programação, Séries, Livros
 - 👯 Formação : Análise e Desenvolvimento de Sistemas - UNIGRAN - 2015 |
-                Engenharia de Software - Faculdade Ampli - 1/6 (Em formação)
-- 🌱 Atualmente estou aprendendo Desenvolvimento Web na 7ª edição do Bootcamp Growdev 
+                Engenharia de Software - 
 - 📜Minhas Experiências: Trabalhei no Setor Bancário, na área de Saúde Publica e com vendas. Atualmente 
                            em formação na área de tecnologia visando migração de carreira. <br>
 - 💻 Tecnologias Favoritas : HTML, CSS e JAVASCRIPT
