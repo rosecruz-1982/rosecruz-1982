@@ -4,10 +4,13 @@
 - 👩🏾 Pronomes: Ela/Dela
 - 🔭 Hobbies: Programação, Séries, Livros
 - 👯 Formação : Análise e Desenvolvimento de Sistemas - UNIGRAN - 2015 |
-                Engenharia de Software - 
+                Ciências de Dados - Cruzeiro do Sul Virtual- Cursando 01/04
+                Certificado Profissional IBM Data Science Coursera (Cursando)
+                Certificado Profissional IBM Data Analyst Coursera (Cursando)
+                Pós Graduação em  Big Data e Inteligência Competitiva (Cursando)
 - 📜Minhas Experiências: Trabalhei no Setor Bancário, na área de Saúde Publica e com vendas. Atualmente 
                            em formação na área de tecnologia visando migração de carreira. <br>
-- 💻 Tecnologias Favoritas : HTML, CSS e JAVASCRIPT
+- 💻 Tecnologias Favoritas : Python - SQL 
 - ⚡ Fun fact: Sou tão Mineira que amo sorvete de queijo com goiabada! 🍧
 
   
