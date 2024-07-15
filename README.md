@@ -4,10 +4,10 @@
 - 👩🏾 Pronomes: Ela/Dela
 - 🔭 Hobbies: Programação, Séries, Livros
 - 👯 Formação : Análise e Desenvolvimento de Sistemas - UNIGRAN - 2015 |
-                Ciências de Dados - Cruzeiro do Sul Virtual- Cursando 01/04 |
+                Ciências de Dados - Cruzeiro do Sul Virtual- Cursando 02/04 |
                 Certificado Profissional IBM Data Science Coursera (Cursando) |
                 Certificado Profissional IBM Data Analyst Coursera (Cursando) |
-                Pós Graduação em  Big Data e Inteligência Competitiva (Cursando)
+                Bootcamp Womakers Code 2024 - Análise de Dados( Cursando)
 - 📜Minhas Experiências: Trabalhei no Setor Bancário, na área de Saúde Publica e com vendas. Atualmente 
                            em formação na área de tecnologia visando migração de carreira. <br>
 - 💻 Tecnologias Favoritas : Python - SQL 
